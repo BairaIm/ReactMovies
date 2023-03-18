@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactMovies/static/css/main.91c6e3ab.css",
+    "main.js": "/ReactMovies/static/js/main.cd7ac4e8.js",
+    "static/media/Iphone-spinner-2(darkblue).gif": "/ReactMovies/static/media/Iphone-spinner-2(darkblue).12486a15e34b94058522.gif",
+    "index.html": "/ReactMovies/index.html",
+    "main.91c6e3ab.css.map": "/ReactMovies/static/css/main.91c6e3ab.css.map",
+    "main.cd7ac4e8.js.map": "/ReactMovies/static/js/main.cd7ac4e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91c6e3ab.css",
+    "static/js/main.cd7ac4e8.js"
+  ]
+}
