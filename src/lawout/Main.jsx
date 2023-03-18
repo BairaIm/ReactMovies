@@ -18,12 +18,20 @@ class Main extends React.Component {
             }`)
             .then(responce => responce.json())
             .then(data => this.setState({ movies: data.Search, loading: false }))
+            .catch(() => {
+                this.setState({ loading: false }); 
+                alert("Server connection error");
+            })
     }
 
     componentDidMount() {
         fetch(`https://www.omdbapi.com/?apikey=${API_KEY}&s=matrix`)
             .then(responce => responce.json())
             .then(data => this.setState({ movies: data.Search, loading: false }))
+            .catch(() => {
+                this.setState({ loading: false }); 
+                alert("Server connection error");
+            })
     }
 
     render() {
