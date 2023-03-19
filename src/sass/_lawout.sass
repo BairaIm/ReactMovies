@@ -26,7 +26,55 @@
     height: 100%
     flex-grow: 1
 
+.results
+    padding-top: 4rem
+    font-size: 3rem
+    margin-bottom: 2rem
+    padding-left: 13%
+    color: darkblue
+
+.showing-results
+    font-size: 2.5rem
+    margin-bottom: 2rem
+    padding-left: 13%
+    color: darkblue
+
 .not_found
     padding-top: 4rem
     font-size: 3rem
     padding-left: 25%
+
+.pages
+    display: flex
+    flex-wrap: wrap
+    justify-content: center
+    margin-bottom: 3rem
+    
+.page-input
+    display: none
+
+.page-label
+    margin-bottom: 0.5rem
+    text-align: center
+    width: 2.5rem
+    margin-left: 1rem
+    padding: 0.5rem
+    border: 1px solid darkblue
+    border-radius: 10rem
+    color: darkblue
+    font-size: 2.5rem
+    &:hover
+        background-color: darkblue
+        color: white
+        font-weight: bold
+        cursor: pointer
+
+.page-input:checked + .page-label
+    background-color: darkblue
+    color: white
+    font-weight: bold
+    cursor: pointer
+
+.three-dots
+    color: darkblue
+    font-size: 4rem
