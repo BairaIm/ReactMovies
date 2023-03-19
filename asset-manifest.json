@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ReactMovies/static/css/main.91c6e3ab.css",
-    "main.js": "/ReactMovies/static/js/main.095b1559.js",
+    "main.css": "/ReactMovies/static/css/main.97dab51d.css",
+    "main.js": "/ReactMovies/static/js/main.cce330b3.js",
     "static/media/Iphone-spinner-2(darkblue).gif": "/ReactMovies/static/media/Iphone-spinner-2(darkblue).12486a15e34b94058522.gif",
     "index.html": "/ReactMovies/index.html",
-    "main.91c6e3ab.css.map": "/ReactMovies/static/css/main.91c6e3ab.css.map",
-    "main.095b1559.js.map": "/ReactMovies/static/js/main.095b1559.js.map"
+    "main.97dab51d.css.map": "/ReactMovies/static/css/main.97dab51d.css.map",
+    "main.cce330b3.js.map": "/ReactMovies/static/js/main.cce330b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.91c6e3ab.css",
-    "static/js/main.095b1559.js"
+    "static/css/main.97dab51d.css",
+    "static/js/main.cce330b3.js"
   ]
 }
